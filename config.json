@@ -3,28 +3,10 @@
 }
 ```
 
-Clique **"Commit changes"** (bouton vert en bas)
+6. Clique **Commit changes** → **Commit changes**
 
 ---
 
-### Étape 4 — Activer GitHub Pages
-
-1. Va dans **Settings** (onglet du repo)
-2. Dans le menu gauche → **Pages**
-3. Sous **"Branch"**, sélectionne `main` puis `/ (root)`
-4. Clique **Save**
-
-GitHub va afficher une URL du style :
+Ensuite attends 2 minutes et reteste :
 ```
-https://TON_USERNAME.github.io/gcv-config/
-```
-
-⏳ Attendre 1-2 minutes que ce soit actif.
-
----
-
-### Étape 5 — Tester l'URL
-
-Ton fichier sera accessible à :
-```
-https://TON_USERNAME.github.io/gcv-config/config.json
+https://aziane1989.github.io/lp-config/config.json
