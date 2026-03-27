@@ -1,12 +1,3 @@
 {
   "server_url": "http://154.241.10.117"
 }
-```
-
-6. Clique **Commit changes** → **Commit changes**
-
----
-
-Ensuite attends 2 minutes et reteste :
-```
-https://aziane1989.github.io/lp-config/config.json
